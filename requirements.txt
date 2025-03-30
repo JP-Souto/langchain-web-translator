@@ -1,0 +1,6 @@
+transformers
+langchain
+langchain-huggingface
+fastapi
+uvicorn
+langserve[all]
